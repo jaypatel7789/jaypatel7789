@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/jaypatel7789/jaypatel7789/blob/main/hacker_PNG23%20(1).png" alt="Logo">
+</p>
+
 <h1 align="center">Hi 👋, I'm Jay Kumar Patel</h1>
 <h3 align="center">I am a passionate beginner in web development, eager to learn and explore the world of front-end and back-end development</h3>
  <img align="right" alt="coding"width="400" src=
